@@ -1,0 +1,11 @@
+asyncio~=3.4.3
+SQLAlchemy~=2.0.38
+python-dotenv~=1.0.1
+fastapi~=0.115.8
+PyJWT~=2.10.1
+passlib~=1.7.4
+pydantic~=2.10.6
+uvicorn
+asyncpg
+python-multipart
+cloudinary~=1.42.2
